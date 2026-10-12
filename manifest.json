@@ -42,8 +42,8 @@
         },
         {
             "path": "DataTable/Character.edf",
-            "sha256": "a92c305bf7c3958538226ce8a359fd6e9b0439b5562ea27399bc72615b5235a1",
-            "size": 730901
+            "sha256": "c268b7952001be84de74120c084a1c9ec0eabb09ca3a39d862704d2f6746121d",
+            "size": 731125
         },
         {
             "path": "DataTable/Csxx.txt",
@@ -177,8 +177,8 @@
         },
         {
             "path": "DataTable/en-ph/NDCharacter.edf",
-            "sha256": "d0358057ff7a7a350d9ea782703d17dd10da6391bc0de413ea0161b6801f3dce",
-            "size": 231585
+            "sha256": "2b1fb023fbfa5187a6d2b727bd8fe7252133ce1ab3ae17af5f60f3276ee843fd",
+            "size": 231617
         },
         {
             "path": "DataTable/en-ph/NDEventShip.edf",
@@ -187,8 +187,8 @@
         },
         {
             "path": "DataTable/en-ph/NDItem.edf",
-            "sha256": "693418712b43cddab1eeb626db2bd2d44a123939ba7b8ce0bcb4daa4abbc118c",
-            "size": 8022081
+            "sha256": "b2c09550794ffdc559129a5e3c9851b68ef8bcf574cab7dbdc94dbc6cf83609d",
+            "size": 8108124
         },
         {
             "path": "DataTable/en-ph/NDItemCash.edf",
@@ -227,7 +227,7 @@
         },
         {
             "path": "DataTable/en-ph/NDStore.edf",
-            "sha256": "7badede79b42465f059e3886c81adba92baa6570bfe69399a34be0a54559fd12",
+            "sha256": "9dbee2eca1668eec92e4b37644a448f787b5f4e812c1a6a9efa612efa0b50bbc",
             "size": 72090
         },
         {
@@ -267,8 +267,8 @@
         },
         {
             "path": "DataTable/Item.edf",
-            "sha256": "9933a22f25d24739ca435a216485f77cd0c1ed36fd994764055bae0cea2205c7",
-            "size": 16083255
+            "sha256": "ac18fa67e3aa7827fb6f076eceacd4966cc63c5f008ccb14bc8687066f1f8fdc",
+            "size": 16376571
         },
         {
             "path": "DataTable/itemcash.edf",
@@ -527,7 +527,7 @@
         },
         {
             "path": "DataTable/Store.edf",
-            "sha256": "8292a74f49d3c6bb105e40b3d900502218f54af1f9816da0c5397b66fb6d491d",
+            "sha256": "6d956e37c183535c52d4289b9f751cf3751e7e845baf087b55de6063f3e94561",
             "size": 567417
         },
         {
@@ -6197,7 +6197,7 @@
         },
         {
             "path": "SpriteImage/en-ph/item.spr",
-            "sha256": "7bd8c454cf962cc7783429db2dfc1daaf30c52ef68b8b39d2f5405d8f5451d51",
+            "sha256": "348d2e06eda1fd1ff16ff5eee92781146c9c4cac1f0db50649c193e0c7910469",
             "size": 36336564
         },
         {
@@ -7261,6 +7261,6 @@
             "size": 249144
         }
     ],
-    "generated": "2026-10-10T10:22:33",
+    "generated": "2026-10-12T15:02:12",
     "version": 1
 }
