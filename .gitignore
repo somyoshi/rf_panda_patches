@@ -54,6 +54,12 @@
 !/Character/Player/Tex/RFSInfo.dat
 !/Character/Player/Mesh/VNR*.RFS
 !/Character/Player/Tex/VNR*.RFS
+# HQ da Accretia: so o NeutralA.ebp (barraca trade_ac tirada do mapa, 13/10/2026)
+!/Map/
+/Map/*
+!/Map/neutralA/
+/Map/neutralA/*
+!/Map/neutralA/NeutralA.ebp
 
 # 3) dentro dessas pastas, arquivos que o jogo/jogador altera ou backups
 /DataTable/GameSetting.ini

@@ -2936,6 +2936,11 @@
             "size": 1767
         },
         {
+            "path": "Map/neutralA/NeutralA.ebp",
+            "sha256": "2129b500a8352f69abb16b3420206e7027a8f62d71394dc16760970c1acd37fa",
+            "size": 753882
+        },
+        {
             "path": "networkinformation/qnetworklistmanager.dll",
             "sha256": "cc66815a9621f41c7fc4925d320a44f564f5d69722a1a23a731753592e5e8058",
             "size": 79160
@@ -2972,7 +2977,7 @@
         },
         {
             "path": "RFVenoreLauncher.exe",
-            "sha256": "a93fb261eb6cc0af09d2d9b555ccf08d7367c8d17a076660ee544b00e9d65dfc",
+            "sha256": "630e8e185bab30eb2cec743abd75e5c84277381ed6232cd72ece657b1f783255",
             "size": 494080
         },
         {
@@ -6181,11 +6186,6 @@
             "size": 524324
         },
         {
-            "path": "SpriteImage/en-ph/aplicar_icone_goldkit.ps1",
-            "sha256": "a067ba60985e9fc619f8cea32b08e32f4cff9ac65755f58cfb8e8a094f2eea4c",
-            "size": 1540
-        },
-        {
             "path": "SpriteImage/en-ph/CashShop.spr",
             "sha256": "5d95af6a86dbc7bde4149df0f4e46b4b1158eb54a966b6b693443ac9b91b7218",
             "size": 5491388
@@ -7266,6 +7266,6 @@
             "size": 249144
         }
     ],
-    "generated": "2026-10-12T23:46:52",
+    "generated": "2026-10-13T00:44:20",
     "version": 1
 }
