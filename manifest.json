@@ -187,8 +187,8 @@
         },
         {
             "path": "DataTable/en-ph/NDItem.edf",
-            "sha256": "e0135df6fcb4c15de7a80e77f38fbc14b5cfa95da8e68ec52decda4ff4b25241",
-            "size": 8113305
+            "sha256": "6777f1e99576bdf70dbd2ade04c18bc3425a27d78544678231ebcb50404f8193",
+            "size": 8113655
         },
         {
             "path": "DataTable/en-ph/NDItemCash.edf",
@@ -227,7 +227,7 @@
         },
         {
             "path": "DataTable/en-ph/NDStore.edf",
-            "sha256": "8b6b1fa143ac02627d240bde67dfc4ad4324c77da23c749b20154ccd8368a893",
+            "sha256": "25501a3de0ccc5009e9573c86f8ff3ee9d6a41591ca9e92b6a3adc93b5412c4c",
             "size": 72090
         },
         {
@@ -267,8 +267,8 @@
         },
         {
             "path": "DataTable/Item.edf",
-            "sha256": "fa19a0e3698a4ac3582129cb7cc1f4664a45f7634d382e4c21d5f1b85c067864",
-            "size": 16380811
+            "sha256": "9050a9d7c7f477fcb435b9beb6dd925e1a77237f43e61962a4c9232d9b8b8a06",
+            "size": 16380979
         },
         {
             "path": "DataTable/itemcash.edf",
@@ -527,7 +527,7 @@
         },
         {
             "path": "DataTable/Store.edf",
-            "sha256": "86d12afbfbc84dddc13b1efaf6dbc95bc756c9728729ef0b1da3d599e8863222",
+            "sha256": "8ab6e24f930d97471b2de7a88270cafe1f907b0e582ef249ce38a1658f19cca5",
             "size": 567417
         },
         {
@@ -6191,6 +6191,11 @@
             "size": 524324
         },
         {
+            "path": "SpriteImage/en-ph/aplicar_icone_ligel.ps1",
+            "sha256": "881556a9fef303dc800089061e2bc405420ed9a1b7d2fa742d22733288c81131",
+            "size": 1629
+        },
+        {
             "path": "SpriteImage/en-ph/CashShop.spr",
             "sha256": "5d95af6a86dbc7bde4149df0f4e46b4b1158eb54a966b6b693443ac9b91b7218",
             "size": 5491388
@@ -6207,7 +6212,7 @@
         },
         {
             "path": "SpriteImage/en-ph/item.spr",
-            "sha256": "93495913365b862ec5b45c79c52ac1f3791ddf366ab608b0a9a84dd9bd873c32",
+            "sha256": "fdfad8e2ec0235c5d1df6272662a6b61eb0c99204079ea6b10051e788efe50ff",
             "size": 36336564
         },
         {
@@ -7271,6 +7276,6 @@
             "size": 249144
         }
     ],
-    "generated": "2026-10-16T23:14:15",
+    "generated": "2026-10-17T16:41:10",
     "version": 1
 }
