@@ -6191,11 +6191,6 @@
             "size": 524324
         },
         {
-            "path": "SpriteImage/en-ph/aplicar_icone_ligel.ps1",
-            "sha256": "881556a9fef303dc800089061e2bc405420ed9a1b7d2fa742d22733288c81131",
-            "size": 1629
-        },
-        {
             "path": "SpriteImage/en-ph/CashShop.spr",
             "sha256": "5d95af6a86dbc7bde4149df0f4e46b4b1158eb54a966b6b693443ac9b91b7218",
             "size": 5491388
@@ -7276,6 +7271,6 @@
             "size": 249144
         }
     ],
-    "generated": "2026-10-17T16:41:10",
+    "generated": "2026-10-17T16:44:13",
     "version": 1
 }
