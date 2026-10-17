@@ -2,8 +2,8 @@
   "banners": [
     {
       "image": "banners/banner1.jpg",
-      "title": "The War Begins",
-      "subtitle": "Bellato, Cora e Accretia voltam ao campo de batalha. Escolha seu lado.",
+      "title": "Bamboo Wars",
+      "subtitle": "Bellato, Cora e Accretia se enfrentam na floresta de bambu. Escolha seu lado.",
       "link": ""
     },
     {
@@ -22,7 +22,7 @@
   "news": [
     {
       "tag": "Novidade",
-      "title": "Abertura do RF VENORE",
+      "title": "Abertura do RF PANDA",
       "date": "01/10/2026",
       "text": "O servidor está em fase de testes. Crie sua conta pelo launcher e venha conhecer.",
       "link": ""

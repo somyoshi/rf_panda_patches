@@ -1,5 +1,5 @@
 # =====================================================================
-#  Repositorio do auto-update do RF VENORE.
+#  Repositorio do auto-update do RF PANDA.
 #  Tudo fica FORA do Git, menos o que esta liberado com "!" abaixo.
 #  Essa lista precisa bater com a do launcher (UpdateMgr.cpp).
 # =====================================================================
@@ -11,7 +11,7 @@
 !/.gitignore
 !/.gitattributes
 !/manifest.json
-!/RFVenoreLauncher.exe
+!/RFPandaLauncher.exe
 !/Qt6*.dll
 !/sirin-launcher.dll
 !/d3d9.dll

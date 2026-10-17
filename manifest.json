@@ -187,8 +187,8 @@
         },
         {
             "path": "DataTable/en-ph/NDItem.edf",
-            "sha256": "d7e9a40c14c6c846f6efba550ba165e6d8bcd14238de9a544c6c5adb54939161",
-            "size": 8109063
+            "sha256": "e0135df6fcb4c15de7a80e77f38fbc14b5cfa95da8e68ec52decda4ff4b25241",
+            "size": 8113305
         },
         {
             "path": "DataTable/en-ph/NDItemCash.edf",
@@ -217,8 +217,8 @@
         },
         {
             "path": "DataTable/en-ph/NDQuest.edf",
-            "sha256": "4789ad350db3a56e22fb0ce5023a57e68edbb55b3314373c2d1393fa2ef3c676",
-            "size": 617290
+            "sha256": "fb7221aa9d918d55578d90e938142526164fa899166a40c45c7cf4002898b6d1",
+            "size": 617395
         },
         {
             "path": "DataTable/en-ph/NDSkillForce.edf",
@@ -227,7 +227,7 @@
         },
         {
             "path": "DataTable/en-ph/NDStore.edf",
-            "sha256": "16c9d8b61d876862defc00c99d72c7a6e43190238d23430ae3829c4779aa9483",
+            "sha256": "8b6b1fa143ac02627d240bde67dfc4ad4324c77da23c749b20154ccd8368a893",
             "size": 72090
         },
         {
@@ -267,8 +267,8 @@
         },
         {
             "path": "DataTable/Item.edf",
-            "sha256": "2e523ae51a1c913cad8752b64d28abd747eebc91638c66015484b2f79eebcc19",
-            "size": 16377271
+            "sha256": "fa19a0e3698a4ac3582129cb7cc1f4664a45f7634d382e4c21d5f1b85c067864",
+            "size": 16380811
         },
         {
             "path": "DataTable/itemcash.edf",
@@ -292,8 +292,8 @@
         },
         {
             "path": "DataTable/ItemTimer.edf",
-            "sha256": "92f491042b67afab0bf79b97e61f65ffe862698d9c3b855a41ad50d104131b3d",
-            "size": 18033
+            "sha256": "3dcc71b6cb70043858e2220c81fa0e4adfbb8dd63e7dc8374bd1a4ec1d32cfe9",
+            "size": 18057
         },
         {
             "path": "DataTable/Map.edf",
@@ -527,7 +527,7 @@
         },
         {
             "path": "DataTable/Store.edf",
-            "sha256": "bd9f681e94a3db5c4ffb399be03c3889220d9a6187b4e3d95b26ad122c5bdba9",
+            "sha256": "86d12afbfbc84dddc13b1efaf6dbc95bc756c9728729ef0b1da3d599e8863222",
             "size": 567417
         },
         {
@@ -2917,23 +2917,28 @@
         },
         {
             "path": "launcher/banners/banner1.jpg",
-            "sha256": "d68b105948549c51ec7267e2888b603a9b67209d27812150dc21029154c31376",
-            "size": 45527
+            "sha256": "4ffc275ca80f1ca63a746cd3e9a37b3390ec94dc81409d6c366ad1dffc7788bf",
+            "size": 59137
         },
         {
             "path": "launcher/banners/banner2.jpg",
-            "sha256": "6e9b724fe645c0c240f0da1321222638d17158a743eb9982458792d0fc0f7988",
-            "size": 45721
+            "sha256": "78670511453281905507cccab96a8fc22e369edf90194d3176e71007b414b34f",
+            "size": 59220
         },
         {
             "path": "launcher/banners/banner3.jpg",
-            "sha256": "6ebfb5add72c868cc831ce32ef2f6fa77e17d81d653ed4328a8be56be4d1f628",
-            "size": 44771
+            "sha256": "5e5a4bc43eb883017a3f626078e1546f726ba99a7b05f495699ce477cd8692dd",
+            "size": 59227
+        },
+        {
+            "path": "launcher/logo.png",
+            "sha256": "d6900e62adc09a43872239507e5997159c235cb298d4bab29d5e76c9a5c2581d",
+            "size": 92900
         },
         {
             "path": "launcher/news.json",
-            "sha256": "cd01c5a868082b86627ca9c6dd843b0573b17a693ce6f8468f103dfb96955c1e",
-            "size": 1767
+            "sha256": "1fb52fc90fee73570377d50ff151a80cc2e63db881acb58720588f105754928a",
+            "size": 1770
         },
         {
             "path": "Map/neutralA/NeutralA.ebp",
@@ -2976,9 +2981,9 @@
             "size": 6520120
         },
         {
-            "path": "RFVenoreLauncher.exe",
-            "sha256": "630e8e185bab30eb2cec743abd75e5c84277381ed6232cd72ece657b1f783255",
-            "size": 494080
+            "path": "RFPandaLauncher.exe",
+            "sha256": "a6219d0593ef13764b1dee49988e90bdf12062f01ac3c4826f53d7b025554524",
+            "size": 589312
         },
         {
             "path": "sirin-launcher.dll",
@@ -6202,7 +6207,7 @@
         },
         {
             "path": "SpriteImage/en-ph/item.spr",
-            "sha256": "2bdaf05c161554af1f9ebea0c0dd055686172f2aae73ca50dfc1753ca7ae57d0",
+            "sha256": "93495913365b862ec5b45c79c52ac1f3791ddf366ab608b0a9a84dd9bd873c32",
             "size": 36336564
         },
         {
@@ -7266,6 +7271,6 @@
             "size": 249144
         }
     ],
-    "generated": "2026-10-13T00:44:20",
+    "generated": "2026-10-16T23:14:15",
     "version": 1
 }
