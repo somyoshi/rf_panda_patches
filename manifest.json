@@ -2937,8 +2937,8 @@
         },
         {
             "path": "launcher/news.json",
-            "sha256": "1fb52fc90fee73570377d50ff151a80cc2e63db881acb58720588f105754928a",
-            "size": 1770
+            "sha256": "0a3ad3db0d0a7d7be9b38c6cf16f0804f20fae9f8b26e2fe190692c4b65f3636",
+            "size": 3019
         },
         {
             "path": "Map/neutralA/NeutralA.ebp",
@@ -2982,8 +2982,8 @@
         },
         {
             "path": "RFPandaLauncher.exe",
-            "sha256": "070ab7a3e0266c86281441708b6168113eb159efc7d5119188940aa03574ec46",
-            "size": 628736
+            "sha256": "2801e8b0d08d795bb3eabef8c3391fccb932d11a0a5ed81598820cd814256615",
+            "size": 644608
         },
         {
             "path": "sirin-launcher.dll",
@@ -7271,6 +7271,6 @@
             "size": 249144
         }
     ],
-    "generated": "2026-10-17T17:57:47",
+    "generated": "2026-10-17T18:14:39",
     "version": 1
 }

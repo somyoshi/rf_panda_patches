@@ -3,55 +3,77 @@
     {
       "image": "banners/banner1.jpg",
       "title": "Bamboo Wars",
+      "title_en": "Bamboo Wars",
       "subtitle": "Bellato, Cora e Accretia se enfrentam na floresta de bambu. Escolha seu lado.",
+      "subtitle_en": "Bellato, Cora and Accretia clash in the bamboo forest. Choose your side.",
       "link": ""
     },
     {
       "image": "banners/banner2.jpg",
       "title": "Sistema de Criação",
+      "title_en": "Crafting System",
       "subtitle": "Junte minérios e materiais e crie itens direto pelo menu do jogo.",
+      "subtitle_en": "Gather ores and materials and craft items right from the game menu.",
       "link": ""
     },
     {
       "image": "banners/banner3.jpg",
       "title": "Entre no nosso Discord",
+      "title_en": "Join our Discord",
       "subtitle": "Novidades, eventos e suporte da equipe.",
+      "subtitle_en": "News, events and support from the team.",
       "link": "https://discord.com"
     }
   ],
   "news": [
     {
       "tag": "Novidade",
+      "tag_en": "New",
       "title": "Abertura do RF PANDA",
+      "title_en": "RF PANDA is open",
       "date": "01/10/2026",
+      "date_en": "10/01/2026",
       "text": "O servidor está em fase de testes. Crie sua conta pelo launcher e venha conhecer.",
+      "text_en": "The server is in testing. Create your account in the launcher and come check it out.",
       "link": ""
     },
     {
       "tag": "Atualização",
+      "tag_en": "Update",
       "title": "Menu de funções com Banco, Leilão e Criação",
+      "title_en": "Function menu with Bank, Auction and Crafting",
       "date": "01/10/2026",
+      "date_en": "10/01/2026",
       "text": "Agora dá para abrir o banco, o leilão, a combinação e a criação de itens pelo menu, sem ir até o NPC.",
+      "text_en": "You can now open the bank, auction, combination and item crafting from the menu, without going to the NPC.",
       "link": ""
     },
     {
       "tag": "Evento",
+      "tag_en": "Event",
       "title": "Evento de inauguração",
+      "title_en": "Grand opening event",
       "date": "Em breve",
+      "date_en": "Coming soon",
       "text": "Fique de olho no Discord para as datas.",
+      "text_en": "Keep an eye on Discord for the dates.",
       "link": ""
     },
     {
       "tag": "Manutenção",
+      "tag_en": "Maintenance",
       "title": "Manutenções programadas",
+      "title_en": "Scheduled maintenance",
       "date": "Toda quarta",
+      "date_en": "Every Wednesday",
       "text": "Exemplo de aviso com a tag em vermelho. Edite ou apague no news.json.",
+      "text_en": "Example notice with the red tag. Edit or delete it in news.json.",
       "link": ""
     }
   ],
   "links": [
-    { "label": "Site", "url": "https://example.com" },
-    { "label": "Discord", "url": "https://discord.com" },
-    { "label": "Regras", "url": "https://example.com/regras" }
+    { "label": "Site", "label_en": "Website", "url": "https://example.com" },
+    { "label": "Discord", "label_en": "Discord", "url": "https://discord.com" },
+    { "label": "Regras", "label_en": "Rules", "url": "https://example.com/regras" }
   ]
 }
