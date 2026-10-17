@@ -2982,8 +2982,8 @@
         },
         {
             "path": "RFPandaLauncher.exe",
-            "sha256": "a6219d0593ef13764b1dee49988e90bdf12062f01ac3c4826f53d7b025554524",
-            "size": 589312
+            "sha256": "d109097ad450556bc1624a287d6ffdd0ee5e7fd2f352ab76e6ebf4bbb0a823ce",
+            "size": 597504
         },
         {
             "path": "sirin-launcher.dll",
@@ -7271,6 +7271,6 @@
             "size": 249144
         }
     ],
-    "generated": "2026-10-17T17:41:12",
+    "generated": "2026-10-17T17:45:55",
     "version": 1
 }
