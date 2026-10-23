@@ -6207,8 +6207,8 @@
         },
         {
             "path": "SpriteImage/en-ph/common.spr",
-            "sha256": "e62a8ad8ab179ab8cbbcdcc7e06f0f6aff2e42111916f22cbe579e1cbb5c7718",
-            "size": 1068632
+            "sha256": "9763e7917fbf75b697425499ad93fbb942898439cc38688dc45f943f1f0038dd",
+            "size": 1125976
         },
         {
             "path": "SpriteImage/en-ph/inventory.spr",
@@ -7281,6 +7281,6 @@
             "size": 249144
         }
     ],
-    "generated": "2026-10-22T21:51:55",
+    "generated": "2026-10-22T22:31:01",
     "version": 1
 }
