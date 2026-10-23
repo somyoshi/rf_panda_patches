@@ -60,6 +60,10 @@
 !/Map/neutralA/
 /Map/neutralA/*
 !/Map/neutralA/NeutralA.ebp
+# COB (Cartella Old Base): so o accretia.ebp (chao trocado pelo do RF Banana, 21/10/2026)
+!/Map/accretia/
+/Map/accretia/*
+!/Map/accretia/accretia.ebp
 
 # 3) dentro dessas pastas, arquivos que o jogo/jogador altera ou backups
 /DataTable/GameSetting.ini
@@ -79,6 +83,7 @@ desktop.ini
 *.bak_*
 *.patch
 *.bat
+*.ps1
 # lixo de testes antigos dos shields (caso ainda exista)
 /item/Shield/Mesh/*_17[6-9].msh
 /item/Shield/Mesh/*_180.msh

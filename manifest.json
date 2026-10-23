@@ -42,7 +42,7 @@
         },
         {
             "path": "DataTable/Character.edf",
-            "sha256": "fdaf7ca9468481de41f63c49bff2bba3b50e503ee0acfc4aaa86545a4c353d97",
+            "sha256": "8442e2812dd47bd6abc0bf47eee83b47fe949e9f1fffa42b0c49347aeae6d74b",
             "size": 731125
         },
         {
@@ -177,7 +177,7 @@
         },
         {
             "path": "DataTable/en-ph/NDCharacter.edf",
-            "sha256": "1e158379acd085c113b75f546a7ba85e04d10e4fabc600dd9c7bd7b07537cda8",
+            "sha256": "19f078bb8cad82dbd1e185af5afef221527c2d2738be55dfaedccb8dd205d826",
             "size": 231617
         },
         {
@@ -187,8 +187,8 @@
         },
         {
             "path": "DataTable/en-ph/NDItem.edf",
-            "sha256": "3584eb1dbb5836b954dbea8a7882d6f02f5f4f8e07f654c8b940cba73dcebe6b",
-            "size": 8165824
+            "sha256": "4716d53607ef4987db7e6ced5e3d81265374e545968d7775322915d4f26f69a2",
+            "size": 8166700
         },
         {
             "path": "DataTable/en-ph/NDItemCash.edf",
@@ -202,8 +202,8 @@
         },
         {
             "path": "DataTable/en-ph/NDMap.edf",
-            "sha256": "9d0190ebdb6fff272c2e28fc2684260d620c5c62938c9672d27d745ddce89394",
-            "size": 42751
+            "sha256": "002e270d34458e85906f3eb99c97709cbe814c2e460c2ad5ade5d1893fdaa58e",
+            "size": 43071
         },
         {
             "path": "DataTable/en-ph/NDMsgEvent.edf",
@@ -217,8 +217,8 @@
         },
         {
             "path": "DataTable/en-ph/NDQuest.edf",
-            "sha256": "fb7221aa9d918d55578d90e938142526164fa899166a40c45c7cf4002898b6d1",
-            "size": 617395
+            "sha256": "c9bebfcefc747e29e235575f42cc4233983e9c20ba055b3ad281b542c3bef004",
+            "size": 619245
         },
         {
             "path": "DataTable/en-ph/NDSkillForce.edf",
@@ -227,8 +227,8 @@
         },
         {
             "path": "DataTable/en-ph/NDStore.edf",
-            "sha256": "8beaed9d0a900e6af8d9d13be35e7c363939185127dc50ac2a2d7d8905bc2496",
-            "size": 72090
+            "sha256": "ab913b9a442913ade8db188664293e8b1cd9071e9cdd56d4e4ca2bc9495312da",
+            "size": 73353
         },
         {
             "path": "DataTable/en-ph/PcRoom.edf",
@@ -267,8 +267,8 @@
         },
         {
             "path": "DataTable/Item.edf",
-            "sha256": "790948467d40921e29ca016772a60830b393183c35407d491d38d3141f8c5342",
-            "size": 16380979
+            "sha256": "010171c11548303a3a3be571440d3169ba0f42b65722d5cd2852e31f950af522",
+            "size": 16382119
         },
         {
             "path": "DataTable/itemcash.edf",
@@ -297,8 +297,8 @@
         },
         {
             "path": "DataTable/Map.edf",
-            "sha256": "3e5d9b0f8161d0ca9077cd9df2f8a21cd93e815abb3ac4f19580ee70dcb69618",
-            "size": 256992
+            "sha256": "03c89b6f46111326d1cf740ea0716dc2fac18ae6bc055211e1708c0595b8276e",
+            "size": 258558
         },
         {
             "path": "DataTable/MsgEvent.edf",
@@ -312,8 +312,8 @@
         },
         {
             "path": "DataTable/Quest.edf",
-            "sha256": "54361b0ad32b5e1076bbdd18a2d329aea45aeaaf48b9fba073e67ca2fea24f6a",
-            "size": 1299441
+            "sha256": "a2c84140b3bb3aff20ab9df4173f332b884f190dc3ca737b429a8eb2f7eb555d",
+            "size": 1309089
         },
         {
             "path": "DataTable/Resource.edf",
@@ -527,8 +527,8 @@
         },
         {
             "path": "DataTable/Store.edf",
-            "sha256": "d3c297d2b3665751371ecd37ebee52a12df0187ef376a5a50542e4b3666f0adf",
-            "size": 567417
+            "sha256": "e1a6d6d91d5b47a3d91489bc0f4ece5e27ab5fb047621a1a347ac9683ad3c175",
+            "size": 573537
         },
         {
             "path": "Effect/Character_3/ranking_reward/reward_Ac_mag.spt",
@@ -2932,8 +2932,8 @@
         },
         {
             "path": "launcher/logo.png",
-            "sha256": "d6900e62adc09a43872239507e5997159c235cb298d4bab29d5e76c9a5c2581d",
-            "size": 92900
+            "sha256": "4fb30b6ec4c9fa5edb2d5286c5c48e59dc8122bfc8e84ebe6fec2281e7149e97",
+            "size": 198391
         },
         {
             "path": "launcher/news.json",
@@ -2941,9 +2941,14 @@
             "size": 3019
         },
         {
+            "path": "Map/accretia/accretia.ebp",
+            "sha256": "292b9e58db31614febe2f79ada5fd39e534a11acd6d5917d35180b5ace55e62d",
+            "size": 135134
+        },
+        {
             "path": "Map/neutralA/NeutralA.ebp",
-            "sha256": "2129b500a8352f69abb16b3420206e7027a8f62d71394dc16760970c1acd37fa",
-            "size": 753882
+            "sha256": "1dfb95723b18f72eb37dfcc980d0ba3f738d26fbd17ed8f0e51069777f1c50ab",
+            "size": 753668
         },
         {
             "path": "networkinformation/qnetworklistmanager.dll",
@@ -2982,8 +2987,8 @@
         },
         {
             "path": "RFPandaLauncher.exe",
-            "sha256": "2801e8b0d08d795bb3eabef8c3391fccb932d11a0a5ed81598820cd814256615",
-            "size": 644608
+            "sha256": "0d672a23df33b1d22f21a59457d1d991cb1d9d3121d24a703de38eefb403c92c",
+            "size": 645120
         },
         {
             "path": "sirin-launcher.dll",
@@ -5471,6 +5476,11 @@
             "size": 131108
         },
         {
+            "path": "SpriteImage/common/Map/accretia.spr",
+            "sha256": "d796f58bcc2fa39630ef7f776d6b1f31c4a2e8c440883524f41c093125afdad2",
+            "size": 262180
+        },
+        {
             "path": "SpriteImage/common/Map/Bel_Base.spr",
             "sha256": "2b49e4bc5e942f0f9cc432057fd2f196519231229a1853c85f2c2d1f25b17c8f",
             "size": 524324
@@ -6197,7 +6207,7 @@
         },
         {
             "path": "SpriteImage/en-ph/common.spr",
-            "sha256": "c4e42498cac037c0d8e0212cae286ca512c0532b2b5dd3d807b7392bb3a02e6a",
+            "sha256": "e62a8ad8ab179ab8cbbcdcc7e06f0f6aff2e42111916f22cbe579e1cbb5c7718",
             "size": 1068632
         },
         {
@@ -6207,7 +6217,7 @@
         },
         {
             "path": "SpriteImage/en-ph/item.spr",
-            "sha256": "fdfad8e2ec0235c5d1df6272662a6b61eb0c99204079ea6b10051e788efe50ff",
+            "sha256": "bd1b5a2f890c1e568046e002a6a3bee2369f0c56724f3c60f6716f136e25b932",
             "size": 36336564
         },
         {
@@ -7271,6 +7281,6 @@
             "size": 249144
         }
     ],
-    "generated": "2026-10-17T18:41:23",
+    "generated": "2026-10-22T21:51:55",
     "version": 1
 }
