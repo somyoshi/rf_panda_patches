@@ -42,7 +42,7 @@
         },
         {
             "path": "DataTable/Character.edf",
-            "sha256": "8442e2812dd47bd6abc0bf47eee83b47fe949e9f1fffa42b0c49347aeae6d74b",
+            "sha256": "377164eed7d27c2bc2e8dd38c07ca3f760dbcce7d70690ddeb547daf980d7bda",
             "size": 731125
         },
         {
@@ -177,7 +177,7 @@
         },
         {
             "path": "DataTable/en-ph/NDCharacter.edf",
-            "sha256": "19f078bb8cad82dbd1e185af5afef221527c2d2738be55dfaedccb8dd205d826",
+            "sha256": "475f91f0e2456ceb27bd742d15731d42ff1cd0e79fb5de345acdc1328be1c8c1",
             "size": 231617
         },
         {
@@ -187,12 +187,12 @@
         },
         {
             "path": "DataTable/en-ph/NDItem.edf",
-            "sha256": "4716d53607ef4987db7e6ced5e3d81265374e545968d7775322915d4f26f69a2",
-            "size": 8166700
+            "sha256": "fa55fbe81305c9927c9cc0e88161b93521b0788d651fa33cc9b61adc7b6ea804",
+            "size": 8171374
         },
         {
             "path": "DataTable/en-ph/NDItemCash.edf",
-            "sha256": "7171b2fdb91e62edccbbad84ae9aa4c77563be73fcb3bfec8c0c31d646e98a62",
+            "sha256": "8660bcbf143ae06101733aac8b710a3462bd7c734afc2cb35b9034ec1104cd87",
             "size": 4297
         },
         {
@@ -217,17 +217,17 @@
         },
         {
             "path": "DataTable/en-ph/NDQuest.edf",
-            "sha256": "c9bebfcefc747e29e235575f42cc4233983e9c20ba055b3ad281b542c3bef004",
-            "size": 619245
+            "sha256": "40591cd1ed07e1074390b949486243569d7c0bd78f8e5c8a86d88fb67603fa8f",
+            "size": 620985
         },
         {
             "path": "DataTable/en-ph/NDSkillForce.edf",
-            "sha256": "4899f3388fc921e4662c175ad0137e4786f7220e25caa42f968850722d23acc4",
-            "size": 719497
+            "sha256": "10100b7ba0fd2d1c486e7a967b706c4cdcb14f1f569cda30ba0b25950c94b008",
+            "size": 720041
         },
         {
             "path": "DataTable/en-ph/NDStore.edf",
-            "sha256": "ab913b9a442913ade8db188664293e8b1cd9071e9cdd56d4e4ca2bc9495312da",
+            "sha256": "7570a4f171957072e07ccedc4aa81888fb73c95f2c24f8730a816f85d39bba5f",
             "size": 73353
         },
         {
@@ -267,22 +267,22 @@
         },
         {
             "path": "DataTable/Item.edf",
-            "sha256": "010171c11548303a3a3be571440d3169ba0f42b65722d5cd2852e31f950af522",
-            "size": 16382119
+            "sha256": "c2acd34372dea1b28c992f5ac6faa93eb4b43a6c7c70dcd5cd681bfc13e8bf3d",
+            "size": 16384339
         },
         {
             "path": "DataTable/itemcash.edf",
-            "sha256": "98efb8454e12601fd0a98832138f815d2ebd2ba7a042eeb69e09e47fd15f97d9",
+            "sha256": "8003ae79f45f786e2f43be1dbe9026fc9e6724102a12487f006b8d30067f863f",
             "size": 64297
         },
         {
             "path": "DataTable/ItemCombine.edf",
-            "sha256": "5d506c09b6b636c03b017f64686482cff653db4c78b495fe65e4d2f109fe0820",
+            "sha256": "53ee839deba584e3a1bda39af45285bae85a9414a58c96a65b5ba847447a4fa3",
             "size": 11582689
         },
         {
             "path": "DataTable/ItemPremium.edf",
-            "sha256": "0c1f4db635320c4e6a0a9b3841748e2e60e21592c1255a6de3bc363a59e3ae00",
+            "sha256": "db2b660969ff8c2f35a29bdcdaaf60c7357cc7fe2df410d2a6656e0588060ef9",
             "size": 270241
         },
         {
@@ -292,12 +292,12 @@
         },
         {
             "path": "DataTable/ItemTimer.edf",
-            "sha256": "3dcc71b6cb70043858e2220c81fa0e4adfbb8dd63e7dc8374bd1a4ec1d32cfe9",
-            "size": 18057
+            "sha256": "b8cd740a3d45a37d98fdbade827c266ee8b1c31338b3f26cba6d60b6a369bd46",
+            "size": 18105
         },
         {
             "path": "DataTable/Map.edf",
-            "sha256": "03c89b6f46111326d1cf740ea0716dc2fac18ae6bc055211e1708c0595b8276e",
+            "sha256": "66eb2f75b5609c051011df1162cc2e38429f763cb70c1e980f2728ab07562a7b",
             "size": 258558
         },
         {
@@ -312,8 +312,8 @@
         },
         {
             "path": "DataTable/Quest.edf",
-            "sha256": "a2c84140b3bb3aff20ab9df4173f332b884f190dc3ca737b429a8eb2f7eb555d",
-            "size": 1309089
+            "sha256": "d245d5044dbd0e2ec7aedafe223add096bb92f122364cf76586d0a3fc751c5d1",
+            "size": 1318737
         },
         {
             "path": "DataTable/Resource.edf",
@@ -522,12 +522,12 @@
         },
         {
             "path": "DataTable/SkillForce.edf",
-            "sha256": "619f8e365f36602a9be8246a2442f72e198bdc6d5d9864e9e193fccd24a0c275",
-            "size": 1478857
+            "sha256": "2562245ab8eddcc514475c43f0a48c3da1d8279cd2b5bda8cc279ec6eb1aedac",
+            "size": 1479977
         },
         {
             "path": "DataTable/Store.edf",
-            "sha256": "e1a6d6d91d5b47a3d91489bc0f4ece5e27ab5fb047621a1a347ac9683ad3c175",
+            "sha256": "a5825fdfe7c82c1a9179f5da2db69a19f3f152328705f1b1a3c146541e87ac54",
             "size": 573537
         },
         {
@@ -7281,6 +7281,6 @@
             "size": 249144
         }
     ],
-    "generated": "2026-10-22T22:31:01",
+    "generated": "2026-10-26T23:46:08",
     "version": 1
 }
