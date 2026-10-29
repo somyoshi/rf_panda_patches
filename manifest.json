@@ -187,8 +187,8 @@
         },
         {
             "path": "DataTable/en-ph/NDItem.edf",
-            "sha256": "fa55fbe81305c9927c9cc0e88161b93521b0788d651fa33cc9b61adc7b6ea804",
-            "size": 8171374
+            "sha256": "5d88a4dfff8ff57cb59e27bd3d890525f6cef1e4e19857df4d8daa22ea04a04a",
+            "size": 8173580
         },
         {
             "path": "DataTable/en-ph/NDItemCash.edf",
@@ -227,7 +227,7 @@
         },
         {
             "path": "DataTable/en-ph/NDStore.edf",
-            "sha256": "7570a4f171957072e07ccedc4aa81888fb73c95f2c24f8730a816f85d39bba5f",
+            "sha256": "bf11e94be18735eb3415f39115749cc04d36ebcc0993abf6950b732561f7eec7",
             "size": 73353
         },
         {
@@ -267,7 +267,7 @@
         },
         {
             "path": "DataTable/Item.edf",
-            "sha256": "c2acd34372dea1b28c992f5ac6faa93eb4b43a6c7c70dcd5cd681bfc13e8bf3d",
+            "sha256": "d93d03168cc8ab765e105e01c16681544e0f813c4b3e3572b32c431cf52899f4",
             "size": 16384339
         },
         {
@@ -527,7 +527,7 @@
         },
         {
             "path": "DataTable/Store.edf",
-            "sha256": "a5825fdfe7c82c1a9179f5da2db69a19f3f152328705f1b1a3c146541e87ac54",
+            "sha256": "ed0c85695a64e300a4245c9b8c383fdd33d68abea089aaa4bf8cb7fe432223ca",
             "size": 573537
         },
         {
@@ -7281,6 +7281,6 @@
             "size": 249144
         }
     ],
-    "generated": "2026-10-26T23:46:08",
+    "generated": "2026-10-29T18:57:16",
     "version": 1
 }
