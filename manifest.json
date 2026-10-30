@@ -187,7 +187,7 @@
         },
         {
             "path": "DataTable/en-ph/NDItem.edf",
-            "sha256": "5d88a4dfff8ff57cb59e27bd3d890525f6cef1e4e19857df4d8daa22ea04a04a",
+            "sha256": "2cbd7a9962fea9f4f97ee5aba5cf9157dd41bb18b960a16877159ec3a77f1144",
             "size": 8173580
         },
         {
@@ -267,7 +267,7 @@
         },
         {
             "path": "DataTable/Item.edf",
-            "sha256": "d93d03168cc8ab765e105e01c16681544e0f813c4b3e3572b32c431cf52899f4",
+            "sha256": "7da3400944f48d0235fc9c97e39b729963c557e6548cc4b540db43e7d42f0a8d",
             "size": 16384339
         },
         {
@@ -7281,6 +7281,6 @@
             "size": 249144
         }
     ],
-    "generated": "2026-10-29T18:57:16",
+    "generated": "2026-10-29T21:02:06",
     "version": 1
 }
